@@ -17,7 +17,7 @@ cd keras-kge
 pip install .
 ```
 
-####Example
+#### Example
 
 An example using the popular kinship graph dataset, can be found in the `examples` folder. Run the example as follows:
 
